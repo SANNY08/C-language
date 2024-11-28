@@ -1,3 +1,4 @@
+// Reverse largedigit number process the digit in reverse order using do,while
 #include<stdio.h>
 int main()
 {
